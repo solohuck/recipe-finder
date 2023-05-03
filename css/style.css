@@ -1,0 +1,36 @@
+body {
+  overflow-x: hidden;
+}
+
+.title {
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar-item{
+  color: white;
+}
+
+.hero{
+  background-color: antiquewhite;
+}
+
+.navbar-end{
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.subtitle{
+  justify-content: center;
+}
+
+.subtitle{
+  color: black;
+  align-items: center;
+}
